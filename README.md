@@ -1,4 +1,4 @@
-BOAT GAME
+LEGEND OF ZELDA BOAT GAME
 =========================
 
 This is my code for boat game implemented in OpenGL.
